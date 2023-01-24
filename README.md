@@ -6,7 +6,7 @@
 
 <div>
   <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mykon89&layout=compact&theme=dark&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mykon89&show_icons=true&theme=dark&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mykon89&show_icons=true&theme=dark&count_private=true" />
 </div>
 
 <div style="display: inline_block" ><br>
