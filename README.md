@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Helvis Mykon 👋
 
 - 🔭 Hoje busco trabalhar com front-end
-- 🌱 Estudando ReactJS, TypeScript e JavaScript
-- 😄 Pronomes: ele/dele
+- 🌱 Estudando Angular.
 
 <div>
   <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mykon89&layout=compact&theme=dark&count_private=true&include_all_commits=true" />
